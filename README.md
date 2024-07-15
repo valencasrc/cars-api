@@ -1,4 +1,4 @@
-# Cars Api
+# Cars API
 
 Esta aplicação disponibiliza uma API que realiza a criação de usuários com base nos dados de uma pessoa e armazena as informações dos carros que a mesma possui.
 
